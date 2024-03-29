@@ -2,6 +2,8 @@
 
 Le but de ce projet est de construire une application fonctionnelle, qui combine l'édition de documents et la création de diagrammes.
 
+![minweave pic](https://github.com/Permouda/mindweave/assets/82866195/29e3a489-f445-4812-b4c5-e9d32142ff18)
+
 ## Vue d'ensemble et Démo
 
 - **Figma :** [Vue d'ensemble et captures d'écran](https://www.figma.com/file/OFFSRAuTNz4JUKjMPBg56y/MINDWEAVE?type=design&mode=design&t=3mByDf6yCuDuHgGs-0)
